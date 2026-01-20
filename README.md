@@ -118,14 +118,8 @@ prediction_project/
 └── main.py
 ```
 
-🧩 **Estado atual do repositório**:
 
-* Os **notebooks de experimentação**, scripts principais de treinamento, avaliação e visualização estão disponíveis.
-* Módulos de configuração, logging avançado e alguns utilitários estão **planejados para publicação completa na versão 2.0**.
-
----
-
-## 🧠 Pontos Fortes Observáveis (Visão de Recrutador)
+## 🧠 Pontos Fortes Observáveis 
 
 * Clareza arquitetural e separação de responsabilidades
 * Uso correto de validação cruzada estratificada
@@ -134,7 +128,7 @@ prediction_project/
 * Organização compatível com projetos reais de ML
 * Preocupação ética no uso do modelo (triagem ≠ diagnóstico)
 
----
+--- 
 
 ## 📄 Licença
 
@@ -143,4 +137,5 @@ Projeto com fins acadêmicos e educacionais.
 ---
 
 📬 **Feedbacks, sugestões e colaborações são muito bem-vindos.**
+
 
