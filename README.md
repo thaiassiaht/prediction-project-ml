@@ -6,7 +6,7 @@ Este repositório apresenta um **sistema completo de Machine Learning para predi
 
 O projeto foi pensado com **padrões profissionais**, foco em **reprodutibilidade**, **organização modular** e **boas práticas de engenharia de software aplicadas a ML**, refletindo um pipeline próximo ao utilizado em contextos reais de pesquisa e indústria.
 
-> ⚠️ **Nota importante**: o projeto está **conceitualmente completo e funcional**, porém **nem todos os módulos descritos abaixo estão presentes neste repositório público no momento**. Algumas partes foram mantidas fora por organização, privacidade de dados e planejamento da versão 2.0.
+> ⚠️ **Nota importante**: o projeto está **conceitualmente completo e funcional**, porém **nem todos os módulos descritos abaixo estão presentes neste repositório público no momento**.
 
 ---
 
@@ -143,3 +143,4 @@ Projeto com fins acadêmicos e educacionais.
 ---
 
 📬 **Feedbacks, sugestões e colaborações são muito bem-vindos.**
+
